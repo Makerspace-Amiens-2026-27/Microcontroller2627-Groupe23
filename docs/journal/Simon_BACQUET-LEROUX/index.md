@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Étudiant 1
-parent: Journal de bord
+parent: Simon_BACQUET-LEROUX
 has_children: true
 ---
 
-# Étudiant 1
+#Simon_BACQUET-LEROUX
 
 {: .a_modifier }
 > Remplacez « Étudiant 1 » par votre prénom et votre nom, **dans le titre de la page
